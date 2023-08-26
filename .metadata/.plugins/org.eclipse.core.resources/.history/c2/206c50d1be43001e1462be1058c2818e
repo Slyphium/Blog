@@ -1,0 +1,5 @@
+package com.tts.techtalentblog.models;
+
+public class BlogPost {
+
+}

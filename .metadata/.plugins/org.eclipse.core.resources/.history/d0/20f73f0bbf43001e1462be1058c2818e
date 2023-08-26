@@ -1,0 +1,5 @@
+package com.tts.techtalentblog.controllers;
+
+public class BlogPostController {
+
+}
